@@ -1,3 +1,5 @@
+import sys
+print(sys.version)
 
 height = input("Enter yor height in m: ")
 weight = input("Enter yor weight in kg: ")
